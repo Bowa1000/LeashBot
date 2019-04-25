@@ -8,3 +8,6 @@ commands/**
 settings/**
 storage/**
 !storage/*.example
+package-lock.json
+.gitignore
+.npmignore
