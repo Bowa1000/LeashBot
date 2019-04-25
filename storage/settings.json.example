@@ -1,0 +1,34 @@
+{
+	"":{
+		"token":"",
+		"prefix":"",
+		"owner?":"a string or string array of user IDs for Owner-only commands",
+		"owner":null,
+		"hex?":"personal note for prefered hex code for the bot role",
+		"hex":"",
+		"icon?":"ID of the emote to react to when pingged",
+		"icon":""
+	},
+	"BotA":{
+		"token":"AAAAAAAAAAAAAAAAAAAAAAAA.XXXXXX.ZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+		"prefix":"a/",
+		"owner":"999999999999999999",
+		"hex":"ff0000",
+		"icon":""
+	},
+	"BotB":{
+		"token":"BBBBBBBBBBBBBBBBBBBBBBBB.XXXXXX.ZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+		"prefix":"b!",
+		"owner":["999999999999999999","555555555555555555"],
+		"hex":"00ff00",
+		"icon":""
+	},
+	"BotC":{
+		"token":"CCCCCCCCCCCCCCCCCCCCCCCC.XXXXXX.ZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+		"prefix":"c?",
+		"owner":null,
+		"hex":"0000ff",
+		"icon":""
+	},
+	"list":["BotA","BotB","BotC"]
+}

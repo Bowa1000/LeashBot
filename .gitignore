@@ -1,0 +1,10 @@
+.vs
+node_modules
+*.log
+log/**
+error/**
+commands/**
+-commands-
+settings/**
+storage/**
+!storage/*.example

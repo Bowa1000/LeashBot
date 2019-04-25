@@ -1,0 +1,8 @@
+.vs
+start*.bat
+start.bat
+node_modules
+**.log
+log
+commands/
+storage
